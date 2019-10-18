@@ -78,8 +78,4 @@ public class User implements Serializable {
     return "{" + " id='" + getId() + "'" + ", name='" + getName() + "'" + ", email='" + getEmail() + "'" + "}";
   }
 
-  public void User() {
-/**Constructor vazio */
-  }
-
 }
